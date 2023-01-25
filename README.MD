@@ -1,3 +1,11 @@
+<p align="center" with="300">
+<h1 align="center">
+Hi 👋, I am Brayan Forero
+</h1>
+<h3 align="center">
+Frontend Web Developer with 2 years of web experience. I love react and their way of creating amazing apps.
+</h3>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brayanforero) 
