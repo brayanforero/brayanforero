@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **SSR (Vercel), Vitest**
 
 - ❤️ My Favorite Projects:
-[Brayan forero (my portfolio)](https://brayanforero.vercel.app/) | [Mopics](https://app-gif.vercel.app/) | [Telegram>[Telegram Static Chat Clone](https://telegram-static-chat.vercel.app/)
+[Brayan forero (my portfolio)](https://brayanforero.vercel.app/) | [Mopics](https://app-gif.vercel.app/) | [Telegram Static Chat Clone](https://telegram-static-chat.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://brayanforero.vercel.app/](https://brayanforero.vercel.app/)
 
