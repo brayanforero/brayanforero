@@ -3,15 +3,18 @@
 
 - 🌱 I’m currently learning **SSR (Vercel), Vitest**
 
-- 🤝 I’m looking for help with [Brayan forero (my portfolio)](https://brayanforero.vercel.app/)
+- ❤️ My Favorite Projects:
+	[Brayan forero (my portfolio)](https://brayanforero.vercel.app/)
+	[Brayan forero (my portfolio)](https://brayanforero.vercel.app/)
+	[Brayan forero (my portfolio)](https://brayanforero.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://brayanforero.vercel.app/](https://brayanforero.vercel.app/)
 
-- 💬 Ask me about **React, Angular**
+- 💬 Ask me about **React, Angular, CSS**
 
 - 📫 How to reach me **bforero.engineer@gmail.com**
 
-- 📄 Know about my experiences [https://brayanforero.vercel.app/assets/CV/BrayanForero.CV.pdf](https://brayanforero.vercel.app/assets/CV/BrayanForero.CV.pdf)
+- 📄 Know about my experiences [RESUME](https://brayanforero.vercel.app/assets/CV/BrayanForero.CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
