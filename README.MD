@@ -1,12 +1,6 @@
 <h1 align="center">Hola 👋, soy Brayan Forero Ingeniero Informatico</h1>
 <h3 align="center">Apasionado por el mundo del software</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brayanforero&label=Profile%20views&color=0e75b6&style=flat" alt="brayanforero" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brayanforero" alt="brayanforero" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 💻 Web [brayanforero.vercel.app](brayanforero.vercel.app)
 
 - 📫 Contactame **bforero.engineer@gmail.com**
